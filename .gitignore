@@ -1,0 +1,23 @@
+# Eclipse
+.metadata/
+.settings/
+.project
+.classpath
+
+# Java
+*.class
+
+# Maven / Gradle
+target/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+
+#Vs-Code
+.dist
+.vscode
